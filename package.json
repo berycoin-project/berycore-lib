@@ -1,6 +1,6 @@
 {
   "name": "berycore-lib",
-  "version": "0.13.22",
+  "version": "0.15.38",
   "description": "A pure and powerful JavaScript Berycoin library.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
