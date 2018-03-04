@@ -1,7 +1,7 @@
 {
   "name": "berycore-lib",
   "main": "./berycore-lib.min.js",
-  "version": "0.13.19",
+  "version": "0.15.38",
   "homepage": "http://berycore.io",
   "authors": [
     "BitPay, Inc."
