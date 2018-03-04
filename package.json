@@ -1,7 +1,7 @@
 {
-  "name": "litecore-lib",
+  "name": "berycore-lib",
   "version": "0.13.22",
-  "description": "A pure and powerful JavaScript Litecoin library.",
+  "description": "A pure and powerful JavaScript Berycoin library.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "contributors": [
     {
       "name": "Charlie Lee",
-      "email": "coblee@litecoin.org"
+      "email": "coblee@berycoin.org"
     },
     {
       "name": "Daniel Cousens",
@@ -61,7 +61,7 @@
     }
   ],
   "keywords": [
-    "litecoin",
+    "berycoin",
     "bitcoin",
     "transaction",
     "address",
@@ -79,7 +79,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/litecoin-project/litecore-lib.git"
+    "url": "https://github.com/berycoin-project/berycore-lib.git"
   },
   "browser": {
     "request": "browser-request"
@@ -97,7 +97,7 @@
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.9.1",
-    "litecore-build": "litecoin-project/litecore-build",
+    "berycore-build": "berycoin-project/berycore-build",
     "sinon": "^1.13.0"
   },
   "license": "MIT"

@@ -1,5 +1,5 @@
 
 
-var litecoreTasks = require('litecore-build');
+var berycoreTasks = require('berycore-build');
 
-litecoreTasks('lib');
+berycoreTasks('lib');
